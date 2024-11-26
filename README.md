@@ -1,3 +1,4 @@
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-26 at 16 36 25](https://github.com/user-attachments/assets/1793af43-dbb4-45c3-8bb5-5767851e0b70)
 # To-Do List App
 
 A simple and intuitive To-Do List application built using Swift. This project demonstrates core iOS development concepts such as managing lists, CRUD operations, and using UIKit or SwiftUI (specify the one used).
